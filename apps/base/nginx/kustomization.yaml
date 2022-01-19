@@ -7,3 +7,4 @@ resources:
   - release.yaml
   - sealed.yaml
   - mysql-release.yaml
+  - sealed-release.yaml
