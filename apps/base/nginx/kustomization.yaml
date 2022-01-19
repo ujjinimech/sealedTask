@@ -3,8 +3,8 @@ kind: Kustomization
 namespace: nginx
 resources:
   - bitnami-repo.yaml
+  - sealed-release.yaml
   - namespace.yaml  
   - release.yaml
   - sealed.yaml
   - mysql-release.yaml
-  - sealed-release.yaml
